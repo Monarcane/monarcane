@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## This is a repostitory created to hold and display works created by the Monarcane (Logan)
+
+## This was mainly created to be used for a class.
+
 <!--
 **Monarcane/monarcane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
